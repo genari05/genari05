@@ -3,11 +3,11 @@
 
 - 🌱 Atualmente estou aprendendo **python,sql ,html,css,Exel,Power BI**
 
-- 🤝 tenho cursor em [python e django fremework](www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/)
+- 🤝 tenho cursor em **python e django fremework**(www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/)
 
 - 📫 Você me acha não meu E-mail: **tgenari791@gmail.com**
 
-- 📄Tambem pode da uma espiadinnha no meu [https://www.linkedin.com/in/tiago-genari](https://www.linkedin.com /in/tiago-genari)
+- 📄Tambem pode da uma espiadinnha no meu **https://www.linkedin.com/in/tiago-genari**(https://www.linkedin.com /in/tiago-genari)
 
 - ⚡ Sou um jovem sonhador em um dia me tornar **Analista de dados**
 
