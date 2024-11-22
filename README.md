@@ -18,6 +18,6 @@
 <p align="left" > 
 <a href="https://www.python.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" altura ="40"/> </a> <a href="https://www.python.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" altura ="40"/> </a>  </p>
 <p align="left" > 
-<a href="https://www.python.org" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" altura ="40"/> </a> </p>
+<a href="https://www.python.org" target=" _blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png)" alt="python" width="40" altura ="40"/> </a> </p>
 
 
