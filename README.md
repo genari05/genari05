@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Tiago Genari</h1>
 <h3 align="center">🎲Eu sou apaixonado por dads no mundo tecnológico🎲</h3>
 
-- 🌱 Atualmente estou aprendendo **python,sql ,html,css,Exel,Power BI**
+- 👨🏼‍💻 Atualmente estou aprendendo **python || sql || html || css || Exel & Power BI || JS**
 
 - 📜 tenho cursor em [**python e django fremework**](www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/)
 - 📜 tenho cursor em [**AWS Academy Graduate - AWS Academy Cloud Foundations**]([www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/](https://www.credly.com/badges/5dd2f652-d8f8-418f-b786-5694ab0a5236/linked_in_profile))
