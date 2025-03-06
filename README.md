@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Tiago Genari</h1>
-<h3 align="center">🎲Eu sou apaixonado por dads no mundo tecnológico🎲</h3>
+<h3 align="center">🎲Um amante análise de dados 🎲</h3>
 
 - 👨🏼‍💻 Atualmente estou aprendendo **python || sql || html || css || Exel & Power BI || JS**
 
