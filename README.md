@@ -1,18 +1,25 @@
-<h1 align="center">Oi 👋, eu sou Tiago Genari</h1>
-<h3 align="center">🎲Um amante de análise de dados 🎲</h3>
+<div>
+<a href= "https://github.com/genari05">
+<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=genari05&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+<img height="180em" src= "https://github-readme-stats.vercel.app/api/pin/?username=genari05&repo=github-readme-stats&cache_seconds=86400&theme=dark"/>
+</div>
 
-- 👨🏼‍💻 Atualmente estou aprendendo **python || SQL  || css || Exel & Power BI || JS**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-- 📜 tenho cursor em [**python e django fremework**](www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/)
-- 📜 tenho cursor em [**AWS Academy Graduate - AWS Academy Cloud Foundations**]([www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/](https://www.credly.com/badges/5dd2f652-d8f8-418f-b786-5694ab0a5236/linked_in_profile))
-- 📜 tenho cursor em [**SLQ para analise voltata ao mercado de trabalho**]([[www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/](https://www.credly.com/badges/5dd2f652-d8f8-418f-b786-5694ab0a5236/linked_in_profile)](https://www.udemy.com/certificate/UC-a12ba732-66db-4188-872a-a70f6b2a7a5d/))
-- 📜 tenho cursor em [**MICROSOFT EXCEL 2016 - AVANÇADO**]([www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?6LySc8Vp4h51IOJOKRAB2bPIEgQWKSfu))
+  </div>
 
-- 📫 Você me acha no meu E-mail: **tgenari791@gmail.com**
+  ##
 
-- 🔎 Tambem pode da uma espiadinha no meu [**Linkedin**](https://www.linkedin.com/in/tiago-genari)
+<div> 
+  
 
-- ⚡ Sou um jovem sonhador em um dia me tornar **Analista de dados 🎲**
+  <a href="https://instagram.com/tcaldeira05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "Tiago:tiagocaldeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiago-genari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
 
