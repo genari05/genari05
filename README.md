@@ -31,10 +31,8 @@ Explore meu Github:[https://github.com/caio-ireno](https://github.com/genari05/)
 </p>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genari05&show_icons=true&locale=en&layout=compact&theme=dark" alt="genari05" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genari05&show_icons=true&locale=en&theme=dark" alt="genari05" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genari05&show_icons=true&locale=en&layout=compact&theme=dark" alt="genari05" /></p>
 </div>
 
 
