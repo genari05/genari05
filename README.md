@@ -1,14 +1,45 @@
-<h3 align="center">🎲Um amante de análise de dados 🎲</h3>
+# 👋 Olá, sou tiago Genari !
 
-- 👨🏼‍💻 Atualmente estou aprendendo **python || SQL  || css || Exel & Power BI || JS**
+## 🎲 Sobre mim
+Sou universitário da Faculdade Tecnologia Impacta, com grande interesse pela área de Análise de Dados. Tenho o objetivo de me desenvolver profissionalmente nesse campo, buscando constantemente aprimorar meus conhecimentos e habilidades para alcançar o sucesso na carreira.
 
-- 📜 tenho cursor em [**python e django fremework**](www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/)
-- 📜 tenho cursor em [**AWS Academy Graduate - AWS Academy Cloud Foundations**]([www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/](https://www.credly.com/badges/5dd2f652-d8f8-418f-b786-5694ab0a5236/linked_in_profile))
-- 📜 tenho cursor em [**SLQ para analise voltata ao mercado de trabalho**]([[www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/](https://www.credly.com/badges/5dd2f652-d8f8-418f-b786-5694ab0a5236/linked_in_profile)](https://www.udemy.com/certificate/UC-a12ba732-66db-4188-872a-a70f6b2a7a5d/))
-- 📜 tenho cursor em [**MICROSOFT EXCEL 2016 - AVANÇADO**]([www.udemy.com/certificate/UC-db3633c7-8c5e-41cb-9e44-f65884863ed2/](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?6LySc8Vp4h51IOJOKRAB2bPIEgQWKSfu))
 
-- 📫 Você me acha no meu E-mail: **tgenari791@gmail.com**
 
-- 🔎 Tambem pode da uma espiadinha no meu [**Linkedin**](https://www.linkedin.com/in/tiago-genari)
+## 📂Meus projetos
 
-- ⚡ Sou um jovem sonhador em um dia me tornar **Analista de dados 🎲**
+Explore meu Github:[https://github.com/caio-ireno](https://github.com/genari05/)
+
+## 📫 Meios de contato
+
+
+
+- 📧 Email: **tiago.caldeira@gmail.com**
+- 💼 LinkedIn: [https://www.linkedin.com/in/tiago-genari/](https://www.linkedin.com/in/tiago-genari/)
+
+## 🎥 Curiosidades
+
+* 🎬 Cinefólo, apaixonado por filmes
+* 📚 Colecionador de HQs
+* 🎶 Apaixonado por músicas dos anos 80
+
+
+**Bora se conectar e tocar uns projetos irados juntos!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tiago-genari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-genari/" height="30" width="40" /></a>
+</p>
+
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genari05&show_icons=true&locale=en&layout=compact&theme=dark" alt="genari05" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genari05&show_icons=true&locale=en&theme=dark" alt="genari05" /></p>
+
+</div>
+
+
+<div>
+  <img align="left" src= "https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" height="50" width="50" />
+   <img align="left" src= "https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height="50" width="50" />
+   <img align="left" src= "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" height="50" width="50" />
+</div>
