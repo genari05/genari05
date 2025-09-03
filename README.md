@@ -7,7 +7,7 @@ Sou universitário da Faculdade Tecnologia Impacta, com grande interesse pela á
 
 ## 📂Meus projetos
 
-Explore meu Github:[https://github.com/caio-ireno](https://github.com/genari05/)
+Explore meu Github:[https://github.com/genari05](https://github.com/genari05/)
 
 ## 📫 Meios de contato
 
